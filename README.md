@@ -5,9 +5,13 @@
 -BACKEND de una aplicacion web.
 
 -Este es un proyecto echo con JAVA Y SPRING BOOT, para la coleccion de mis proyectos personales.
+
 -Es un crud de para guardar usuarios, con login que devuelve un tokens(JWT) para la autorizacion de usar la aplicacion.
+
 -Es una aplicacion web funciona para postear problemas y repuestas, asi como la modificacion y eliminar.
+
 -Cuando guardas una repuesta del problema indicado este problema se cambia su estado como respondido.
+
 -Trabaja con base de datos relacionales Mysql.
 
 ##Autor - 
