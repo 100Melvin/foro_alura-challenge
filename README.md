@@ -14,19 +14,22 @@
 
 -Trabaja con base de datos relacionales Mysql.
 
-## Autor - 
-**Melvin Gutierrez**
+## Autor - **Melvin Gutierrez**
+
+## Mis redes
 
 *[LinkedIn](https://linkedin.com/in/100Melvin)
 
 *[GitHub](https://github.com/100Melvin)
+
+*[whatsApp](https://wa.me/50583785413/)
 
 
 ## Ver ejemplo en vivo.
 
 -[Link ]
 
-##Instalacion
+## Instalacion
 Este proyecto no necesita instalacion.
 
 ## Contratacion
