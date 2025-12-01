@@ -19,7 +19,7 @@
 
 *[LinkedIn](https://linkedin.com/in/100Melvin)
 
-*[Perfil github](htttps://github.com/100Melvin/)
+*[GitHub](htttps://github.com/100Melvin/)
 
 ## Ver ejemplo en vivo.
 
