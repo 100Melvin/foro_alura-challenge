@@ -19,6 +19,8 @@
 
 *[LinkedIn](https://linkedin.com/in/100Melvin)
 
+*[Github](https://github.com/100Melvin)
+
 *[GitHub](htttps://github.com/100Melvin/)
 
 ## Ver ejemplo en vivo.
@@ -32,4 +34,4 @@ Este proyecto no necesita instalacion.
 Si quieres contratarme puedes escribirme al correo melvingutierrezmb@gmail.com
 
 ## Licencia
-Este proyecto no requiere tiene licencia.
+Este proyecto no requiere licencia.
